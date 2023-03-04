@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/jdana111/sb4_react_wassell/issues"
   },
-  "homepage": "https://github.com/jdana111/sb4_react_wassell#readme"
+  "homepage": "https://github.com/jdana111/sb4_react_wassell#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.21.0",
+    "@babel/core": "^7.21.0",
+    "@babel/preset-env": "^7.20.2",
+    "@babel/preset-react": "^7.18.6"
+  }
 }
